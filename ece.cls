@@ -58,6 +58,9 @@
 % equation referencing
 \RequirePackage[amsmath,thmmarks]{ntheorem}
 
+% for using font closer to Times New Roman (instead of "genuine" Roman of LaTeX). Thanks to Sagar Rajendran for pointing out
+\RequirePackage{mathptmx}
+
 % for underline fonts
 \RequirePackage[normalem]{ulem}
 
